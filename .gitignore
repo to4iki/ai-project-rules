@@ -1,0 +1,7 @@
+.DS_Store
+
+# AI
+.github/copilot-instructions.md
+.clinerules
+.clinerules/
+CLAUDE.md
